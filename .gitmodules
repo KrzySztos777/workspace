@@ -4,3 +4,6 @@
 [submodule "libs/tcpfile"]
 	path = libs/tcpfile
 	url = https://github.com/workspace-pico-libs/tcpfile.git
+[submodule "libs/pico_freertos_w5x00_sys"]
+	path = libs/pico_freertos_w5x00_sys
+	url = https://github.com/KrzySztos777/pico_freertos_w5x00_sys
