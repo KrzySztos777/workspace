@@ -1,0 +1,6 @@
+[submodule "libs/reentry_lock"]
+	path = libs/reentry_lock
+	url = https://github.com/workspace-pico-libs/reentry_lock.git
+[submodule "libs/tcpfile"]
+	path = libs/tcpfile
+	url = https://github.com/workspace-pico-libs/tcpfile.git
