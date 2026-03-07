@@ -7,3 +7,6 @@
 [submodule "libs/pico_freertos_w5x00_sys"]
 	path = libs/pico_freertos_w5x00_sys
 	url = https://github.com/KrzySztos777/pico_freertos_w5x00_sys
+[submodule "libs/templatelib"]
+	path = libs/templatelib
+	url = https://github.com/workspace-pico-libs/templatelib
