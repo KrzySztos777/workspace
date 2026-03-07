@@ -10,3 +10,6 @@
 [submodule "libs/templatelib"]
 	path = libs/templatelib
 	url = https://github.com/workspace-pico-libs/templatelib
+[submodule "libs/usbcdc_webusb"]
+	path = libs/usbcdc_webusb
+	url = https://github.com/KrzySztos777/usbcdc_webusb
