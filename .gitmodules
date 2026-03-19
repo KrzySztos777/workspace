@@ -13,3 +13,9 @@
 [submodule "libs/usbcdc_webusb"]
 	path = libs/usbcdc_webusb
 	url = https://github.com/KrzySztos777/usbcdc_webusb
+[submodule "mytinyusb"]
+	path = mytinyusb
+	url = https://github.com/KrzySztos777/mytinyusb
+[submodule "libs/mytinyusb"]
+	path = libs/mytinyusb
+	url = https://github.com/workspace-pico-libs/mytinyusb
