@@ -19,3 +19,6 @@
 [submodule "libs/mytinyusb"]
 	path = libs/mytinyusb
 	url = https://github.com/workspace-pico-libs/mytinyusb
+[submodule "libs/fatfs"]
+	path = libs/fatfs
+	url = https://github.com/workspace-pico-libs/fatfs
