@@ -16,3 +16,6 @@
 [submodule "libs/fatfs"]
 	path = libs/fatfs
 	url = https://github.com/workspace-pico-libs/fatfs
+[submodule "libs/cmd"]
+	path = libs/cmd
+	url = https://github.com/workspace-pico-libs/cmd.git
