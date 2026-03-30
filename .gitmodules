@@ -19,3 +19,6 @@
 [submodule "libs/cmd"]
 	path = libs/cmd
 	url = https://github.com/workspace-pico-libs/cmd.git
+[submodule "libs/flash"]
+	path = libs/flash
+	url = https://github.com/workspace-pico-libs/flash
